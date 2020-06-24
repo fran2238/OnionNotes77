@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Onion Notes</string>
+    <string name="button_newNote">Ny Note</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris lacus leo, bibendum ac tellus ac, rutrum fermentum diam. Vivamus varius convallis tellus, et iaculis est congue sit amet. Ut molestie pretium urna vitae blandit. In aliquam risus in odio ullamcorper, eu placerat</string>
+</resources>
